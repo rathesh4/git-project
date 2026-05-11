@@ -1,5 +1,2 @@
 line1
-new change
-change2
-local change
-test change
+test branch change
