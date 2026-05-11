@@ -1,2 +1,3 @@
 line1
 new change
+change2
