@@ -1,3 +1,4 @@
-temp.txt
 *.log
-newfolder/
+temp/
+node_modules/
+secret.txt
